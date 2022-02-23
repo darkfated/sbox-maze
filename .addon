@@ -1,0 +1,13 @@
+{
+  "Title": "Maze",
+  "Type": "map",
+  "Org": "mods",
+  "Ident": "maze",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null
+}
